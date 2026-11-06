@@ -39,17 +39,19 @@ Building practical software solutions and modern web applications.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadahmad223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=muhammadahmad223&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahmad223&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhammadahmad223&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=muhammadahmad223&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
