@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**muhammadahmad223/muhammadahmad223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Muhammad Ahmad 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Developer | PHP • Laravel • JavaScript • React
+
+Building practical software solutions and modern web applications.
+
+<a href="https://muhammad-ahmad-web.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-ahmad-a010a541/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student
+- 💻 Software Developer focused on backend development
+- 🚀 Working with PHP and Laravel
+- ⚛️ Learning React and modern frontend development
+- 🌱 Exploring APIs, databases and software architecture
+- 🎯 Focused on building practical real-world applications
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,bootstrap,mysql,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadahmad223&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadahmad223&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=muhammadahmad223&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+- **Academy Management System** – Academic management solution.
+- **NexCart** – E-commerce web application.
+
+---
+
+<div align="center">
+
+### 💡 Always Learning. Always Building.
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+
+</div>
